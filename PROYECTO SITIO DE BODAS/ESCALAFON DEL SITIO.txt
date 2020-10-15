@@ -1,0 +1,42 @@
+
+body
+
+HEADER class cover
+ 1div class hero-text-wrapper
+ 1 div class hero-text
+ 1 div class tagline
+“we´re getting married! (upper case)
+h1 Zoe & Alex
+spam class date
+August 1, 2018
+
+
+Main
+section class locations
+h2 Locations
+div class blurb
+h3 Ceremony
+img ceremony (icono anillos) alt= ceremony
+div St. Nicholas Church
+div 2 Trinity Square, Budapest
+espacio en blanco
+div class blurb
+h3 Photos
+img (icono camara) alt=Photoshoot
+div Liberty Bastion
+div 23 Wisdom Road, Budapest
+espacio en blanco
+div class blurb
+h3 Party
+img (icono pastel) alt=Party
+div Heaven Lounge
+div 14 Fairy Street, Budapest
+
+
+section class program
+h2 Program
+div class program-wrapper
+p It´s going to be somehow, that´s for sure
+ul
+6 li
+
